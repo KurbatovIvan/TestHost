@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ivank
+Class-Path: lib/commons-configuration2-2.1.1.jar lib/commons-lang3-3.3
+ .2.jar lib/commons-logging-1.2.jar lib/slf4j-api-1.8.0-alpha2.jar lib
+ /mail-1.4.7.jar lib/activation-1.1.jar lib/ini4j-0.5.4.jar
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Main-Class: TestHost
+
